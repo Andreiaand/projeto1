@@ -18,7 +18,7 @@ rograma exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/capa-discover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Andreia atravez do curso da Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
