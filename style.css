@@ -11,6 +11,8 @@
     --surface-color-hover: rgba(0, 0, 0, 0.02);
     --highlingt-color: rgba(255, 255, 255, 0.2);
     --switch-bg-url: url(./assets/moon-stars.svg);
+    --logo-github: url(./assets/github-logo-white.svg);
+    --logo-linkedin: url(./assets/linkedin-logo-white.svg);
     
 }
 
@@ -22,7 +24,8 @@
     --surface-color-hover: rgba(0, 0, 0, 0.02);
     --highlingt-color: rgba(0, 0, 0, 0.1);
     --switch-bg-url: url(./assets/sun.svg);
-
+    --logo-github: url(./assets/github-logo.svg);
+    --logo-linkedin: url(./assets/linkedin-logo.svg);
 }
 
 
@@ -174,6 +177,24 @@ ul li a:hover {
     background: var(--highlingt-color);
     border-radius: 50%;
 }
+
+#logo-github{
+    background-image: var(--logo-github);
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat;    
+}
+#logo-linkedin{
+    background-image: var(--logo-linkedin);
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background-size: contain;
+    background-repeat: no-repeat; 
+}
+
 footer{
     padding: 24px 0;
     text-align: center;
